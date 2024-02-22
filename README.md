@@ -5,7 +5,7 @@ This project focuses on effective teamwork and deep understanding of course mate
 
 ## Table of Contents
 
-1. [Member Information](./members/README.md) - Details on team members and roles.
+1. [Member Information](./teammates/README.md) - Details on team members and roles.
 2. [Meeting Documentation](./documentation/README.md) - Summaries and key outcomes from each meeting.
 3. [Performance Evaluation](./evaluation/README.md) - Criteria and assessments of team contributions.
 4. [Question and Answer Log](./QA_log/README.md) - Compiled list of Q&As from discussions.
